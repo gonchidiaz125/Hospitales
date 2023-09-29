@@ -1,0 +1,8 @@
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Juan', 'Perez',5430,22402522,'19751108','juan.perez55@gmail.com', 351464278,'Masculino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Jose', 'Lando',6234, 24388412 ,'19770524','jose_lando81@gmail.com', 351268745 ,'Masculino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Lucia', 'Stoppa',4123, 18455689 ,'19680518','Lu-Stoppa@gmail.com', 351265496 ,'Femenino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Stefania', 'Lopez',6514, 28305456 ,'19900120','stef305@gmail.com', 351526457 ,'Femenino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Fabricio', 'Logan',4851, 20987159 ,'19720907','logan_fabri@hotmail.com', 352544725 ,'Masculino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Mauricio', 'Tay',7052, 29411784 ,'19920215','tay_mauricio@gmail.com', 352146598 ,'Masculino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Roberto', 'Guzman',3520, 13588148,'19570822','rober_54@gmail.com', 351420665,'Masculino');
+insert into medicos (Nombre, Apellido, Matricula, Documento, Fecha_nac, Email, Telefono, Sexo) values ('Daniela', 'Stull',2452, 26351222,'19911020','dani.stull91@gmail.com', 351236236,'Femenino');
